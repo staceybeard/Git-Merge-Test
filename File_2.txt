@@ -1,4 +1,6 @@
 Furniture
 
+0- Look at catalog
 1- Buy materials
 2- Put together
+3- Add kitchen
