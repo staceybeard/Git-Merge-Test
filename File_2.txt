@@ -4,3 +4,4 @@ Furniture
 1- Buy materials
 2- Put together
 3- Add kitchen
+4- Add in living room
